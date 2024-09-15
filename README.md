@@ -1,2 +1,3 @@
 # Django
-All Django Projects
+Django Documentation For Practice
+
